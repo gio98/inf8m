@@ -6,6 +6,8 @@ html, body {
   padding: 0px;
   background-color: #000;
   background-image: url("galax.jpg");
+   min-width: 1600px;
+  min-height: 600px;
 }
 
 canvas {
